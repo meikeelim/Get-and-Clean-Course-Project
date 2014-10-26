@@ -8,7 +8,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 ##Features of the run_analysis.R
 
-1. Reads the txt files using read.table.
+1. Reads the txt files using "read.table".
 2. Merges the training and the test sets to create one data set.
 3. Using "grep" function, extracts only the measurements on the mean and standard deviation for each measurement.
 4. Using the "merge" function, descriptive activity names are merge to name the activities in the data set
